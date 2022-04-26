@@ -1,0 +1,107 @@
+{
+    "status": [{
+        "idStatus": "2022_04_04_19:56",
+        "colonnes": [{
+            "title_col": "colonne 1",
+            "bgcolor": "rgb(255,0,0)",
+            "tasks": [{
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }]
+        }],
+        "corbeille": {
+            "tasks": [{
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }]
+        }
+    }, {
+        "idStatus": "2022_04_04_19:56",
+        "colonnes": [{
+            "title_col": "colonne 1",
+            "bgcolor": "rgb(255,0,0)",
+            "tasks": [{
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }]
+        }],
+        "corbeille": {
+            "tasks": [{
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }, {
+                "text_task": "je suis une note",
+                "begin_date": "03/04/2022",
+                "begin_hours": "08:12",
+                "end_date": "03/04/2022",
+                "end_hours": "08:12",
+                "id_col_parent": "col1"
+            }]
+        }
+    }]
+}
